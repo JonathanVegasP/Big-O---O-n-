@@ -1,1 +1,1 @@
-Exercise on Representing Big O Notation: O(n)
+Exercise on Representing Big O Notations Concepts
