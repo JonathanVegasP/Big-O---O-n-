@@ -9,7 +9,7 @@ function logItems(n) {
         console.log(i);
     }
 
-    for (let j = 0; j < n; i++) {
+    for (let j = 0; j < n; j++) {
         console.log(j);
     }
 }
