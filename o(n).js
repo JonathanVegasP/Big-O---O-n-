@@ -1,13 +1,13 @@
 /// Study about Big O
 
-/// This function has an argument that is a number called N and when it is executed
-/// It's going to ran N times to log N items.
-/// The expression that we can use in this case is O(n)
+/// This function takes a number N as an argument, and when executed, 
+/// it runs N times, logging N items.
+/// The time complexity of this operation is O(n), where n represents the number of iterations.
 function logItems(n) {
   for (let i = 0; i < n; i++) {
     console.log(i);
   }
 }
 
-/// Here we pass the number ten to It run ten times   
+/// We pass the number 10, which causes the function to run 10 times.
 logItems(10);
